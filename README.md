@@ -37,7 +37,7 @@ The app opens in your browser at `http://localhost:8501`.
 
 Deployed on [Streamlit Community Cloud](https://streamlit.io/cloud)? No
 local setup needed for anyone else — they just open your app's public URL
-(`https://<your-app-name>.streamlit.app`). `localhost` only matters for
+(https://f1-pitstop-optimiser-j489y4rkzrnqstctkkscqf.streamlit.app). `localhost` only matters for
 your own local development.
 
 
