@@ -27,7 +27,7 @@ fuel tank). Built with Python and [Streamlit](https://streamlit.io).
 ## Quickstart
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/budimirluka14-bit/F1-pitstop-optimiser.git>
 cd <your-repo-folder>
 pip install -r requirements.txt
 streamlit run app.py
